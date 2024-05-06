@@ -13,7 +13,7 @@
 * Ankit deadsoullurkin - 200 INR
 * yaegarsensei - 200 INR
 * professorvj - 101 INR
-* @Triskeli0n - 300 INR
+* MEtal - @Triskeli0n - 300 INR
 - Total 901 INR
 
 ### More Info
