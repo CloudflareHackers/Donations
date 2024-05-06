@@ -16,7 +16,8 @@
 * MEtal - @Triskeli0n - 300 INR
 * Ren - 100 INR
 * Crown Prince - 300 INR
-- Total 1301 INR out of 100000 INR
+* zkeez - 100 INR
+- Total 1401 INR out of 100000 INR
 
 ### More Info
 * You can donate as much as you like, the choice is yours.
