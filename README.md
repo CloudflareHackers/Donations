@@ -5,10 +5,11 @@
 ### Costs till now
 * 4130 INR by Bhadoo for Storage
 * 7774 INR by Info for Storage
-- Total 11904 INR i.e. 142 USD.
+- Total 11904 INR i.e. 142 USD
 
 ### Donations in May 2024
-
+* @babyyoda294 - 100 INR
+- Total 100 INR
 
 ### More Info
 * You can donate as much as you like, the choice is yours.
