@@ -15,7 +15,8 @@
 * professorvj - 101 INR
 * MEtal - @Triskeli0n - 300 INR
 * Ren - 100 INR
-- Total 1001 INR out of 100000 INR
+* Crown Prince - 300 INR
+- Total 1301 INR out of 100000 INR
 
 ### More Info
 * You can donate as much as you like, the choice is yours.
