@@ -10,10 +10,11 @@
 
 ### Donations in May 2024
 * @babyyoda294 - 100 INR
-* Ankit - 200 INR
-* c3p0 - 200 INR
-* Vijay - 101 INR
-- Total 601 INR
+* Ankit deadsoullurkin - 200 INR
+* yaegarsensei - 200 INR
+* professorvj - 101 INR
+* @Triskeli0n - 300 INR
+- Total 901 INR
 
 ### More Info
 * You can donate as much as you like, the choice is yours.
