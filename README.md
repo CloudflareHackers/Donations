@@ -10,7 +10,8 @@
 
 ### Donations in May 2024
 * @babyyoda294 - 100 INR
-- Total 100 INR
+* Ankit - 200 INR
+- Total 300 INR
 
 ### More Info
 * You can donate as much as you like, the choice is yours.
