@@ -4,8 +4,9 @@
 
 ### Costs till now
 * 4130 INR by Bhadoo for Storage
+* 2500 INR by Bhadoo for May 2024 Workspace
 * 7774 INR by Info for Storage
-- Total 11904 INR i.e. 142 USD
+- Total 14404 INR
 
 ### Donations in May 2024
 * @babyyoda294 - 100 INR
