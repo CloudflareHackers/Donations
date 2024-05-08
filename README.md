@@ -17,7 +17,29 @@
 * Ren - 100 INR
 * Crown Prince - 300 INR
 * zkeez - 100 INR
-- Total 1401 INR out of 100000 INR
+* Shlok Dhakrey 500 INR
+* Aniket Jaiswal - 51 INR
+* Mukti - 100 INR
+* Punter - 500 INR
+* Nirmalkumar - 251 INR
+* SpartanM7 - 50 INR
+* @Qosmio33 - WAITING PAYPAL via BigFoot
+* The Accounter - 200 INR
+* Spark - 250 INR
+* Blackparrot - 30 INR
+* Nawin - 250 INR
+* vantough - 100 INR
+* iamgroot458 - 500 INR
+* Eternal Student - 1001 INR
+* PRUTHVI - 100 INR
+* Atharva - 150 INR
+* Richard- 200 INR
+* Sandipan - 227 INR
+* MriduM - 200 INR
+* Flasher - 200 INR
+* Noobman - 100 INR
+* Ash - 150 INR
+- Total 6611 INR out of 100000 INR
 
 ### More Info
 * You can donate as much as you like, the choice is yours.
