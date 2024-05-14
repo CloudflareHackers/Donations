@@ -38,8 +38,22 @@
 * MriduM - 200 INR
 * Flasher - 200 INR
 * Noobman - 100 INR
-* Ash - 150 INR
-- Total 6611 INR out of 100000 INR
+* Ash - 150 INR ----------------
+* @iarun - 150 INR
+* Chandrakant - 100 INR
+* Bunny - 200 INR
+* Nikhil - 150 INR
+* Taevero - 150 INR
+* Nishant - 100 INR
+* Julius - 200 INR
+* Nedu - 200 INR
+* Marvelholic - 101 INR
+* @bittubhaai - 101 INR
+* @vishalroy1 - 500 INR
+* @amitrajera - 101 INR
+* heavycrab - 300 INR
+* kanathakur - 1000 INR
+- Total 9964 INR out of 100000 INR
 
 ### More Info
 * You can donate as much as you like, the choice is yours.
