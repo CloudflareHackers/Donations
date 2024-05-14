@@ -6,7 +6,9 @@
 * 4130 INR by Bhadoo for Storage
 * 2500 INR by Bhadoo for May 2024 Workspace
 * 7774 INR by Info for Storage
-- Total 14404 INR
+* 179 INR DC 2 Premium May
+* 260 INR DC 4 Premium May
+- Total 14843 INR Spent
 
 ### Donations in May 2024
 * @babyyoda294 - 100 INR
@@ -57,6 +59,6 @@
 
 ### More Info
 * You can donate as much as you like, the choice is yours.
-* You cannot except in return, as it is still a donation.
+* You cannot expect in return, as it is still a donation.
 * We'll try to do the best we can with the donations.
 * After each month the balance will be moved to Readme and records will be moded in other MD file for records.
