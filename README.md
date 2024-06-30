@@ -11,7 +11,8 @@
 * 2500 INR by Bhadoo for June 2024 Workspace
 * 5000 INR by Bhadoo for June 2 other workspaces
 * 8295 INR by Bhadoo for Storage
-- Total 30638 INR Spent
+* 1100 INR for Server 28 June to 28 July
+- Total 31738 INR Spent
 - Received 11215 INR in May 2024
 
 ### Upcoming Expense
