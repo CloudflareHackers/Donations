@@ -24,7 +24,8 @@
 * Juggernaut - 200 INR
 * Sudhir P - 2868 INR
 * Priyanshu - 100 INR
-- Received 3168 INR in June 2024
+* Rapidleech User - 1100 INR
+- Received 4268 INR in June 2024
 
 ### More Info
 * You can donate as much as you like, the choice is yours.
