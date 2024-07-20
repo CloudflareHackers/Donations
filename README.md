@@ -15,29 +15,40 @@
 * 1100 INR for Server 28 July to 28 August
 * 4189 INR for Workspace Phase 1
 - Total 37027 INR Spent
-- Received 11215 INR in May 2024
+- Received 11215 INR in May 2024 - Totaling to 11215 INR till May End
 - Received 5919 INR in June 2024 - Totaling to 17134 INR till June End
 ### Upcoming Expense
 * July Workspace Fees
 * Storage Extentions in different Workspaces
 * VPS for Group
 
-# Donations in June 2024
-* Juggernaut - 200 INR
-* Sudhir P - 2868 INR
-* Priyanshu - 100 INR
-* Rapidleech User - 1100 INR
-* Prv - 100 INR
-* Jay - 200 INR
-* ʀ ɪ ʟ - 169 INR
-* MATWAKING - 200 INR
-* NOBITA - 30 INR
-* JUPITERONE - 75 INR
-* LUCRO P - 77 INR
-* YASH - 200 INR
-* POSITIVE - 200 INR
-* RENJAN - 100 INR
-- Received 5919 INR in June 2024
+# Donations in July 2024
+* SpartanM7 - 100 INR
+* Nyx - 100 INR
+* RK - 100 INR
+* Eternat Student - 1001 INR
+* Anand Yeole - 1000 INR
+* Gourab - 51 INR
+* Arsalan - 250 INR
+* Bhagyesh - 100 INR
+* wiz nimzo - 150 INR
+* Kaushal - 100 INR
+* Ankit - 300 INR
+* Maldr - 229 INR
+* Sinister Wolf - 201 INR
+* Ashish Kumar Guru - 150 INR
+* KizaπU - 500 INR
+* Panther - 300 INR
+* Sudon - 200 INR
+* Nirmalkumar - 251 INR
+* heavycrab - 500 INR
+* BappaM - 500 INR
+* usrTG - 100 INR
+* Bins - 100 INR
+* VJ - 100 INR
+* Taevero - 100 INR
+* Paul - 100 INR
+- Received 6583 INR in July 2024
 
 ### More Info
 * You can donate as much as you like, the choice is yours.
