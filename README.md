@@ -12,9 +12,11 @@
 * 5000 INR by Bhadoo for June 2 other workspaces
 * 8295 INR by Bhadoo for Storage
 * 1100 INR for Server 28 June to 28 July
-- Total 31738 INR Spent
+* 1100 INR for Server 28 July to 28 August
+* 4189 INR for Workspace Phase 1
+- Total 37027 INR Spent
 - Received 11215 INR in May 2024
-
+- Received 5919 INR in June 2024 - Totaling to 17134 INR till June End
 ### Upcoming Expense
 * July Workspace Fees
 * Storage Extentions in different Workspaces
@@ -25,7 +27,17 @@
 * Sudhir P - 2868 INR
 * Priyanshu - 100 INR
 * Rapidleech User - 1100 INR
-- Received 4268 INR in June 2024
+* Prv - 100 INR
+* Jay - 200 INR
+* ʀ ɪ ʟ - 169 INR
+* MATWAKING - 200 INR
+* NOBITA - 30 INR
+* JUPITERONE - 75 INR
+* LUCRO P - 77 INR
+* YASH - 200 INR
+* POSITIVE - 200 INR
+* RENJAN - 100 INR
+- Received 5919 INR in June 2024
 
 ### More Info
 * You can donate as much as you like, the choice is yours.
